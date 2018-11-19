@@ -14,12 +14,7 @@ The app code in `rottenpotatoes` contains a "canonical" solution to the
 Rails Intro assignment against which to write your scenarios, and the
 necessary scaffolding for the first couple of scenarios. 
 
-Fork this repo to your GitHub account, then clone the fork to your
-development environment:
-
-```sh
-$ git clone git@github.com:your_github_username/hw-bdd-cucumber.git
-```
+Clone this repo to your development environment.
 
 We recommend
 that you do a `git commit` as you get each part working.  As an optional
@@ -33,11 +28,7 @@ your remote. See 'add' in the [git-remote man page](https://git-scm.com/docs/git
 for how to add remotes. (Tags are ignored by deployment remotes such as Heroku,
 so there's no point in pushing tags there.)
 
-> NOTE: Pushing your homework to a public repo is against the edX Honor Code.
-Unless you have GitHub premium service which allows private repositories, you should
-use some other code host for this such as [notabug](https://notabug.org/), 
-[gitlab](https://gitlab.com/), or [bitbucket](https://bitbucket.org/) 
-and be sure that your repo is private.
+NOTE: Pushing your homework to a public repo is against plagarism policy.
 
 **Part 1: Create a declarative scenario step for adding movies**
 
