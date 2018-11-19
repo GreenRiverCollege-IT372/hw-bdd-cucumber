@@ -101,16 +101,4 @@ Update: You no longer need to implement the scenario for no ratings selected.
 
 **Submission**
 
-To submit your assignment, please submit a `.zip` compressed archive
-file containing just your `features` directory. The command for doing
-this in a UNIX environment, from your app's root directory, is:
-
-```sh
-$ zip -r features.zip features
-```
-
-Please make sure that the `features` directory is contained in the
-archive. For example, unarchiving your submission should create a
-directory named `features` in the current working directory. It should
-not extract all your features directly into the current working
-directory. 
+To submit your assignment, ensure the files in your `features` directory are pushed to your repository, and upload a screenshot of the scenarioes on both feature files passing Green.
